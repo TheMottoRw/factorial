@@ -1,0 +1,19 @@
+{
+  "name": "factorial",
+  "version": "1.0.0",
+  "description": "calculate and test factorial of a number",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMottoRw/factorial.git"
+  },
+  "author": "MANZI NERETSE Roger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheMottoRw/factorial/issues"
+  },
+  "homepage": "https://github.com/TheMottoRw/factorial#readme"
+}
